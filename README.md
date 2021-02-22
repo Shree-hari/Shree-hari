@@ -45,6 +45,7 @@
 <p align = "center">
     <img alt="Shree-hari's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shree-hari&show_icons=true&theme=tokyonight&line_height=40" />
     <img alt="Shree-hari's Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shree-hari&theme=tokyonight" />
+    <img alt="Shree-hari's Language" src="https://github-readme-streak-stats.herokuapp.com/?user=shree-hari&theme=tokyonight" />
 </p>
 
 [website]: https://linkedin.com/in/shree-hari/
