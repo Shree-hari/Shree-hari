@@ -2,9 +2,13 @@
 ### Hi there, I'm Harsh 👋
 <img align="right" alt="My Coding Life" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" width="450" >
 ## I'm a Student Developer & Designer !
+
 - 🔭 I’m currently working on few cool projects.
+
 - 💬 Ask me about **DSA, CS core subjects, Flutter, Dart**
+
 - 📫 How to reach me **Ping me at harshmacc@gmail.com**
+
 - ⚡ Fun fact: **I think I am funny**
 
 ### Connect with me:
