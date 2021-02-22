@@ -14,10 +14,10 @@
 ### Connect with me:
 
 <p align="left">
-<a href="https://linkedin.com/in/shree-hari/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/shree-hari/" height="25" width="25" /></a>
-<a href="https://youtu.be/VKTBhWZ_rBc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="Top Flutter" height="25" width="25" /></a>
-<a href="https://www.leetcode.com/shree-hari/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="https://leetcode.com/shree-hari/" height="25" width="25" /></a>
-<a href="https://auth.geeksforgeeks.org/user/shree-hari/practice/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="https://auth.geeksforgeeks.org/user/shree-hari/profile" height="25" width="25" /></a>
+<a href="https://linkedin.com/in/shree-hari/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/shree-hari/" height="30" width="40" /></a>
+<a href="https://youtu.be/VKTBhWZ_rBc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="Top Flutter" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/shree-hari/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="https://leetcode.com/shree-hari/" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/shree-hari/practice/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="https://auth.geeksforgeeks.org/user/shree-hari/profile" height="30" width="40" /></a>
 </p>
 
 <br />
