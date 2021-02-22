@@ -1,11 +1,7 @@
 ## ![Harsh's header](https://github.com/Shree-hari/Shree-hari/blob/main/header.png)
 ### Hi there, I'm Harsh 👋
 
-[![Website](https://img.shields.io/website?label=Harsh&style=for-the-badge&url=https%3A%2F%2Foishik.live)][website]
-
-[![Welcome to my Profile.](https://github.com/Shree-hari/Shree-hari/raw/master/header.png)][website]
-
-## I'm a Student Developer & Designer!
+## I'm a Student Developer & Designer !
 - 🔭 I’m currently working on few cool projects.
 - 💬 Ask me about **DSA, CS core subjects, Flutter, Dart**
 - 📫 How to reach me **Ping me at harshmacc@gmail.com**
