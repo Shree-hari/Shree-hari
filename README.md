@@ -1,6 +1,7 @@
 ## ![Harsh's header](https://github.com/Shree-hari/Shree-hari/blob/main/header.png)
 ### Hi there, I'm Harsh 👋
-<img align="right" alt="My Coding Life" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" width="450" ><br>
+<img align="right" alt="My Coding Life" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" width="450" >
+<br><br>
 <b> I'm a Passionate Programmer & Developer !</b>
 
 - 🔭 I’m currently working on few cool projects.
@@ -38,7 +39,6 @@
 [<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />][website]
 [<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />][website]
 
-<br />
 <br />
 
 ---
