@@ -1,7 +1,7 @@
 ## ![Harsh's header](https://github.com/Shree-hari/Shree-hari/blob/main/header.png)
 ### Hi there, I'm Harsh 👋
 <img align="right" alt="My Coding Life" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" width="450" >
-<br><br>
+
 <b> I'm a Passionate Programmer & Developer !</b>
 
 - 🔭 I’m currently working on few cool projects.
@@ -20,8 +20,6 @@
 <a href="https://www.leetcode.com/shree-hari/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="https://leetcode.com/shree-hari/" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/shree_hari/practice/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="https://auth.geeksforgeeks.org/user/shree_hari/profile" height="30" width="40" /></a>
 </p>
-
-<br />
 
 ### Languages and Tools:
 
