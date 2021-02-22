@@ -1,6 +1,6 @@
 ## ![Harsh's header](https://github.com/Shree-hari/Shree-hari/blob/main/header.png)
 ### Hi there, I'm Harsh 👋
-
+<img align="right" alt="My Coding Life" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" width="450" >
 ## I'm a Student Developer & Designer !
 - 🔭 I’m currently working on few cool projects.
 - 💬 Ask me about **DSA, CS core subjects, Flutter, Dart**
